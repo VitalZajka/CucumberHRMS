@@ -9,6 +9,13 @@ import com.hrms.utils.ConfigsReader;
 
 public class AddEmployeePageElements extends CommonMethods {
 
+	/**
+	 * 
+	 */
+	
+	
+	// what is this elements come from 
+	// we have to give a description
 	@FindBy(id = "firstName")
 	public WebElement firstName;
 
